@@ -38,9 +38,9 @@ javac -encoding UTF-8 NumberGuessingGame.java
 java NumberGuessingGame
 ```
 
-## 📸 Project Output is given at the (game-output.png) 
+## 📸 Project Output 
 
-![Number Guessing Game Output](game-output.png)
+![Number Guessing Game Output](game-output.png) is given at the (game output.png)
 
 ## 📚 Concepts Used
 
